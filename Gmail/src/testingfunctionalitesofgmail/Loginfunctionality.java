@@ -7,5 +7,8 @@ public class Loginfunctionality {
 	public void password(){
 		System.out.println("password");
 	}
+	public void login(){
+		system.out.println("login");
+	}
 
 }
